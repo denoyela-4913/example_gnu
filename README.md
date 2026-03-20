@@ -1,1 +1,1 @@
-# clock_exercice
+# example_gnu
